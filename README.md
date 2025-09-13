@@ -1,3 +1,15 @@
+<div align="left">
+  <a href="https://app.daily.dev/haseebasif" target="_blank">
+    <img
+      width="300"
+      height="400"
+      align="right"
+      src="https://github.com/Haseebasif7/Haseebasif7/blob/main/devcard.png" alt="Haseeb's Dev Card"
+    />
+  </a>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Medhat</h1>
 <h3 align="center">A Mechatronics Engineering Student</h3>
 
